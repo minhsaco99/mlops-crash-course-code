@@ -6,6 +6,7 @@ pipeline {
             steps {
                 echo 'Building something..'
                 echo 'Hello'
+                echo 'lasdfja;sldjfadf'
             }
         }
         stage('Test') {
